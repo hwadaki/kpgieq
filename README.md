@@ -1,2 +1,2 @@
-# kpgieq
-kpgieq 한국지진통보
+# KPGiEQ
+KPGiEQ 한국지진통보
